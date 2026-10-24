@@ -1,76 +1,52 @@
 # MicutVault
 
-MicutVault is a lightweight Android privacy vault currently in closed testing.
+**Lightweight Private Media Vault for Android**
 
-It is designed for storing private photos, videos, audio, notes and documents locally on-device, with a simple setup and optional app disguise modes.
+MicutVault is part of the TSI Dev Studio Android portfolio.
 
-## Current features
+## What it does
 
-- Private storage for photos, videos, audio, notes and documents
-- PIN protection
-- Biometric unlock
-- App disguise modes
-- Intruder protection
-- Encrypted local storage
-- Trash with recovery period
-- Manual and scheduled backup options
-- Local-first design
+- Lightweight private-media vault
+- PIN-protected access
+- Supported biometric access
+- Disguise options
+- Intruder-photo capability where enabled
+- Local-first privacy model
+- Currently positioned around testing and product validation
+
+## Product principles
+
+- Local-first privacy
 - No unnecessary account requirement
+- Focused vault experience
+- Minimal public disclosure of security-sensitive internals
 
-## App disguise modes
+## Public documentation
 
-MicutVault can be configured to appear as:
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Privacy Features](docs/privacy-features.md) | Public user-facing documentation |
+| [Troubleshooting](docs/troubleshooting.md) | Public user-facing documentation |
+| [Security Policy](SECURITY.md) | Responsible private security reporting |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-- Calculator
-- Notes
-- Books
-- Files
+## Official links
 
-The disguise mode is optional and can be changed by the user.
+- Website: https://tsidevstudio.com
+- TSI Dev Studio: https://tsidevstudio.com
 
-## Closed testing
+## About this repository
 
-MicutVault is currently in closed testing on Google Play.
+This repository is for public product information, documentation, verification links and release-related resources.
 
-Current testing focuses on:
+Unless explicitly stated otherwise, the application source code is not published here.
 
-- First-time setup and PIN flow
-- Importing and viewing private files
-- Biometric unlock
-- App disguise behavior
-- Intruder protection
-- Trash and recovery behavior
-- Backup flow
-- General stability and usability
+MicutVault is a privacy product. Public documentation is intentionally limited to user-visible behavior and responsible security reporting.
 
-MicutVault is not yet publicly released on Google Play.
+## Developer
 
-## Privacy approach
-
-MicutVault is designed around local control of private content.
-
-The app focuses on:
-
-- Local storage
-- Minimal data exposure
-- No unnecessary cloud dependence
-- No unnecessary accounts
-- Clear privacy expectations
-
-## TSI Dev Studio
-
-MicutVault is developed by TSI Dev Studio, an independent Android developer focused on privacy-first, local-first and practical mobile apps.
-
-Official website:
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Other projects include Xsilent, Nullun, AnonyPic, Seabil, Zekro, Zizly, Annum and HEZX.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
